@@ -6,9 +6,12 @@ Estou em transição de carreira, determinada a mergulhar no mundo do desenvolvi
 Atualmente, estou focada em aprimorar minhas habilidades no desenvolvimento de sistemas com foco em backend oferecida pela Cubos Academy em parceria com Ifood!  E também estou explorando o vasto universo do desenvolvimento web no projeto de ElasNaTech oferecido pela Junior Achievement (JA Worldwide). Estou dedicando meu tempo ao aprendizado contínuo e à prática, enquanto sigo cursos específicos para fortalecer minhas bases e expandir meu conhecimento técnico.
 
 ---
+<div>
+    
+<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Karlagoncalves&show_icons=true&theme=radical">
+<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karlagoncalves&layout=compact">
 
-![Gonçalves GitHub stats](https://github-readme-stats.vercel.app/api?username=Karlagoncalves&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karlagoncalves&layout=compact)
+</div>
 
 ---
 
