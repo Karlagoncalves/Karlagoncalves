@@ -1,11 +1,11 @@
 ### Olá, mundo! 🌐
 
-👋 Meu nome é Karla Gonçalves, e estou iniciando os primeiros passos na jornada tecnológica. 
-Estou em transição de carreira, determinada a mergulhar no mundo do desenvolvimento de sistemas e web. 
+👋 Meu nome é Karla Gonçalves. Estou dando os primeiros passos em minha jornada tecnológica e estou em transição de carreira, determinada a explorar o universo do desenvolvimento de sistemas e web.
 
-Atualmente, estou focada em aprimorar minhas habilidades no desenvolvimento de sistemas com foco em backend oferecida pela Cubos Academy em parceria com Ifood!  E também estou explorando o vasto universo do desenvolvimento web no projeto de ElasNaTech oferecido pela Junior Achievement (JA Worldwide). Estou dedicando meu tempo ao aprendizado contínuo e à prática, enquanto sigo cursos específicos para fortalecer minhas bases e expandir meu conhecimento técnico.
+📚 Atualmente, estou focada em aprimorar minhas habilidades em desenvolvimento de sistemas com ênfase em backend, um curso oferecido pela Cubos Academy em parceria com o Ifood. Paralelamente, estou me aprofundando no mundo do desenvolvimento web através do projeto ElasNaTech, promovido pela Junior Achievement (JA Worldwide). Dedico meu tempo ao aprendizado contínuo e à prática, seguindo cursos específicos para solidificar minhas bases e expandir meu conhecimento técnico.
 
 ---
+
 <div>
     
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Karlagoncalves&show_icons=true&theme=radical">
